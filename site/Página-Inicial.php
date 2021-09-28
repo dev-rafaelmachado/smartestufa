@@ -51,7 +51,7 @@
     </section>
     <section class="u-align-center u-clearfix u-custom-color-2 u-section-2" id="carousel_6e17">
       <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
-        <h2 class="u-align-left u-text u-text-1">Funções</h2>
+        <h2 class="u-align-left u-text u-text-1">Board</h2>
         <div class="u-container-style u-expanded-width-md u-group u-opacity u-opacity-90 u-shape-rectangle u-white u-group-1">
           <div class="u-container-layout u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-container-layout-1"><span class="u-icon u-icon-circle u-text-black u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 343.5 343.5" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-c456"></use></svg><svg class="u-svg-content" viewBox="0 0 343.5 343.5" x="0px" y="0px" id="svg-c456" style="enable-background:new 0 0 343.5 343.5;"><g><g><path d="M322.05,161.8h-182.6c-5.5,0-10,4.5-10,10s4.5,10,10,10h182.6c5.5,0,10-4.5,10-10C332.05,166.3,327.65,161.8,322.05,161.8    z"></path>
 </g>
@@ -66,9 +66,11 @@
 </g><g><g><path d="M57.95,250.5c-25.7,0-46.5,20.8-46.5,46.5c0,25.7,20.8,46.5,46.5,46.5s46.5-20.8,46.5-46.5    C104.45,271.4,83.65,250.5,57.95,250.5z M57.95,323.6c-14.7,0-26.5-11.9-26.5-26.5c0-14.7,11.9-26.5,26.5-26.5    c14.7,0,26.5,11.9,26.5,26.5S72.55,323.6,57.95,323.6z"></path>
 </g>
 </g></svg></span>
-            <h3 class="u-text u-text-2">Rotina</h3>
-            <p class="u-text u-text-3">Nesse espaço você poderá escolher como irá funcionar a rotina da sua Smart Estufa, para que funcione adequedamente para o tipo da sua planta escolhida</p>
-            <a href="https://nicepage.com/k/adult-website-templates" class="u-border-1 u-border-palette-3-light-1 u-btn u-button-style u-hover-palette-3-light-1 u-palette-3-light-2 u-text-hover-white u-text-white u-btn-1">sua rotina</a>
+            <h3 class="u-text u-text-2">Funções</h3>
+            <p class="u-text u-text-3">Nesta sessão você tera ascesso aos dados da sua estufa.</p>
+            <p class="u-text u-text-3"></p>
+            <button class="u-border-1 u-border-palette-3-light-1 u-btn u-button-style u-hover-palette-3-light-1 u-palette-3-light-2 u-text-hover-white u-text-white u-btn-1 value="Refresh Page" onClick="window.location.reload()"> Atualizar </button>
+            <!-- <a href="" class="u-border-1 u-border-palette-3-light-1 u-btn u-button-style u-hover-palette-3-light-1 u-palette-3-light-2 u-text-hover-white u-text-white u-btn-1"><div class=""></div></a> -->
           </div>
         </div>
         <div class="u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-list u-list-1">
@@ -139,7 +141,7 @@
                     <span style="font-size: 1.125rem;"> Nosso projeto tem como principal objetivo levar facilidade, praticidade e baixo custo, podendo custar menos da metade dos preços de outras estufas. A Smart Estufa tem a flexibilidade que você precisa, ela pode ser colocada em qualquer lugar.</span>
                     <br>
                   </p>
-                  <a href="https://nicepage.com/k/awards-website-templates" class="u-btn u-button-style u-none u-text-black u-text-hover-custom-color-1 u-btn-1">Ler Mais&nbsp;<span class="u-icon"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
+                  <a href="https://github.com/dev-rafaelmachado/smartestufa" class="u-btn u-button-style u-none u-text-black u-text-hover-custom-color-1 u-btn-1">Ler Mais&nbsp;<span class="u-icon"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
                   </a>
                 </div>
               </div>
