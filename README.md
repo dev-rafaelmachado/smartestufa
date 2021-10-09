@@ -10,7 +10,6 @@ Uma estufa automatizada para cuidar de plantas, com acompanhamento remoto.
 - PHP, HTML CSS, JS
 - Apache
 - Mysql (MariaDB)
-- XAMPP (Controlador do Apache e Mysql)
 
 # Observações 
 1. É um ***protótipo*** 
